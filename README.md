@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m honorsuper
 - 👀 I ’m interest in JavaScript, TypeScript, React, Vue3, etc.
-- 🌱 I’m currently learning Nest, Tailwind CSS.
+- 🌱 I’m currently learning Nest, Tailwind CSS, Next.
 -  📫 How to reach me? Email: honorsuper@126.com.
 
 <!--
