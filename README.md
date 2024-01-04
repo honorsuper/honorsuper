@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6965DB&random=false&width=435&separator=%3C&lines=console.log(%22hello+world!%22);%3CI'm+honorsuper!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6965DB&random=false&width=435&separator=%3C&lines=console.log(%22hello+world!%22);%3CI'm+honorsuper!)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honorsuper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
